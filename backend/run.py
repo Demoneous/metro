@@ -1,0 +1,16 @@
+import subprocess
+
+subprocess.Popen(["python", "slp/app.py"])
+subprocess.Popen(["python", "plm/app.py"])
+subprocess.Popen(["python", "slp9/app.py"])
+subprocess.Popen(["python", "krt/app.py"])
+subprocess.Popen(["python", "krt3/app.py"])
+subprocess.Popen(["python", "sm1/app.py"])
+subprocess.Popen(["python", "sm13/app.py"])
+subprocess.Popen(["python", "mry/app.py"])
+subprocess.Popen(["python", "kdy/app.py"])
+subprocess.Popen(["python", "ckg/app.py"])
+subprocess.Popen(["python", "tga/app.py"])
+subprocess.Popen(["python", "kpk/app.py"])
+subprocess.Popen(["python", "ksb/app.py"])
+subprocess.Popen(["python", "jia/app.py"])
